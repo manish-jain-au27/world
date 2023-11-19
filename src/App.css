@@ -1,0 +1,189 @@
+/* Define styles for the container */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background: linear-gradient(135deg, #f2f2f2, #e0e0e0);
+    min-height: 100vh;
+    animation: fadeIn 1s ease;
+  }
+  
+  /* Styles for the title */
+  .title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styles for the score table */
+  .score-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    animation: slideIn 1s ease;
+  }
+  
+  .score-table th,
+  .score-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: center;
+  }
+  
+  .score-table th {
+    background-color: #007BFF;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .score-table td {
+    background-color: #f2f2f2;
+  }
+  
+  /* Styles for team links */
+  .team-link {
+    color: #007BFF;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+  .team-link:hover {
+    color: #0056b3;
+    text-decoration: underline;
+  }
+  
+  /* Styles for team title */
+  .team-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+    text-transform: uppercase;
+  }
+  
+  /* Styles for the team table */
+  .team-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    animation: slideIn 1s ease;
+  }
+  
+  .team-table th,
+  .team-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: center;
+  }
+  
+  .team-table th {
+    background-color: #007BFF;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .team-table td {
+    background-color: #f2f2f2;
+  }
+  
+  /* Styles for error message */
+  .error-message {
+    color: #FF0000;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  /* Styles for back link */
+  .back-link {
+    color: #007BFF;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+  .back-link:hover {
+    color: #0056b3;
+    text-decoration: underline;
+  }
+  
+  /* Styles for team info */
+  .team-info {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #333;
+    text-transform: uppercase;
+  }
+  
+  /* Add additional styles as needed */
+  
+  /* Animation keyframes */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  @keyframes slideIn {
+    from {
+      transform: translateY(-20px);
+    }
+    to {
+      transform: translateY(0);
+    }
+  }
+  /* Add CSS styles for the congratulatory messages */
+.congratulations {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+  
+  /* Create space for fireworks */
+  .fireworks-container {
+    position: relative;
+    height: 200px; /* Adjust the height as needed */
+    overflow: hidden;
+  }
+  
+  .firework {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: #ff0000; /* Firework color */
+    border-radius: 50%;
+    transform-origin: center;
+    animation: explode 1s ease-out;
+  }
+  
+  @keyframes explode {
+    0% {
+      transform: scale(1);
+      opacity: 1;
+    }
+    100% {
+      transform: scale(10);
+      opacity: 0;
+    }
+  }
+  

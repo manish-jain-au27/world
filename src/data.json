@@ -1,0 +1,1209 @@
+{
+    "players": {
+        "ROHIT SHARMA": [
+            597,
+            1
+        ],
+        "VIRAT KOHLI": [
+            765,
+            1
+        ],
+        "SHUBHAM GILL": [
+            354,
+            0
+        ],
+        "SHREYAS IYER": [
+            530,
+            0
+        ],
+        "SURYAKUMAR YADAV": [
+            106,
+            0
+        ],
+        "KL RAHUL": [
+            452,
+            0
+        ],
+        "ISHAN KISHAN": [
+            47,
+            0
+        ],
+        "HERRY BROOK": [
+            103,
+            0
+        ],
+        "LIAM LIVINGSTONE": [
+            60,
+            3
+        ],
+        "DAWID MALAN": [
+            404,
+            0
+        ],
+        "JOE ROOT": [
+            276,
+            1
+        ],
+        "JOS BUTLER": [
+            181,
+            0
+        ],
+        "JONNY BAIRSTOW": [
+            215,
+            0
+        ],
+        "DAVID WARNER": [
+            528,
+            0
+        ],
+        "STEVEN SMITH": [
+            298,
+            0
+        ],
+        "T HEAD": [
+            192,
+            2
+        ],
+        "ALEX CAREY": [
+            0,
+            0
+        ],
+        "JOSG INGLIS": [
+            159,
+            0
+        ],
+        "BABAR AZAM": [
+            320,
+            0
+        ],
+        "FAKHAR ZAMAN": [
+            220,
+            0
+        ],
+        "IMAM UL HAQ": [
+            162,
+            0
+        ],
+        "MOHAMMAD RIZWAN": [
+            395,
+            0
+        ],
+        "TAMBA BAVUMA": [
+            145,
+            0
+        ],
+        "AIDEN MARKRAM": [
+            397,
+            1
+        ],
+        "DAVID MILLER": [
+            356,
+            0
+        ],
+        "RVD DUSSEN": [
+            448,
+            0
+        ],
+        "Q D KOCK": [
+            594,
+            0
+        ],
+        "HEINRICH KLAASEN": [
+            373,
+            0
+        ],
+        "KANE WILLIAMSON": [
+            256,
+            0
+        ],
+        "DEVON CONWAY": [
+            372,
+            0
+        ],
+        "TOM LATHAM": [
+            155,
+            0
+        ],
+        "GLENN PHILLIPS": [
+            285,
+            6
+        ],
+        "PATHUM NISSANKA": [
+            332,
+            0
+        ],
+        "KUSAL MENDIS": [
+            294,
+            0
+        ],
+        "KUSAL PARERA": [
+            149,
+            0
+        ],
+        "S SAMARAWICKRAMA": [
+            373,
+            0
+        ],
+        "H SHAHIDI": [
+            310,
+            0
+        ],
+        "NAJIBULLAH ZADRAN": [
+            7,
+            0
+        ],
+        "LITTON DAS": [
+            284,
+            0
+        ],
+        "MUSHFIQUR": [
+            202,
+            0
+        ],
+        "N H SHANTO": [
+            222,
+            0
+        ],
+        "VIKARMJIT SINGH": [
+            98,
+            0
+        ],
+        "SCOTT EDWARDS": [
+            259,
+            0
+        ],
+        "WESLEY BARRESI": [
+            83,
+            0
+        ],
+        "SHARDUL THAKUR": [
+            0,
+            2
+        ],
+        "J BUMRAH": [
+            18,
+            18
+        ],
+        "KULDEEP YADAV": [
+            19,
+            15
+        ],
+        "MOHAMMED SHAMI": [
+            10,
+            23
+        ],
+        "MOHAMMES SIRAJ": [
+            9,
+            13
+        ],
+        "MARK WOOD": [
+            85,
+            6
+        ],
+        "ADIL RASHID": [
+            92,
+            15
+        ],
+        "REECE TOPLEY": [
+            16,
+            8
+        ],
+        "PAT CUMMINS": [
+            128,
+            15
+        ],
+        "J HAZLEWOOD": [
+            4,
+            16
+        ],
+        "ADAM ZAMPA": [
+            48,
+            23
+        ],
+        "MITCHELL STARC": [
+            87,
+            16
+        ],
+        "HARIS RAUF": [
+            53,
+            16
+        ],
+        "HASAN ALI": [
+            20,
+            9
+        ],
+        "SHAHEEN AFRIDI": [
+            55,
+            18
+        ],
+        "LUNGI NGIDI": [
+            11,
+            10
+        ],
+        "KAGISO RABADA": [
+            25,
+            13
+        ],
+        "KESHAV MAHARAJ": [
+            59,
+            15
+        ],
+        "T BOLT": [
+            21,
+            14
+        ],
+        "LOCKIE FERGUSON": [
+            7,
+            10
+        ],
+        "ISH SIDHI": [
+            0,
+            0
+        ],
+        "TIM SOUTHEE": [
+            16,
+            7
+        ],
+        "DILSHAN MADUSHANKA": [
+            28,
+            21
+        ],
+        "M PATHIRANA": [
+            6,
+            2
+        ],
+        "M THEEKSHANA": [
+            101,
+            6
+        ],
+        "KASUN RAJITHA": [
+            52,
+            8
+        ],
+        "MUJEEB UR RAHMAN": [
+            51,
+            8
+        ],
+        "NAVEEN UL HAQ": [
+            16,
+            8
+        ],
+        "NOOR AHMAD": [
+            26,
+            5
+        ],
+        "TASKIN AHMED": [
+            49,
+            5
+        ],
+        "M RAHMAN": [
+            42,
+            5
+        ],
+        "NASUM AHMED": [
+            40,
+            0
+        ],
+        "LOGAN VAN BEEK": [
+            140,
+            12
+        ],
+        "ARYAN DUTT": [
+            72,
+            8
+        ],
+        "HARDIK PANDYA": [
+            11,
+            5
+        ],
+        "RAVINDRA JADEJA": [
+            120,
+            16
+        ],
+        "R ASHWIN": [
+            0,
+            1
+        ],
+        "MOEEN ALI": [
+            95,
+            5
+        ],
+        "BEN STOKES": [
+            304,
+            0
+        ],
+        "SAM CURRAN": [
+            35,
+            2
+        ],
+        "DAVID WILLEY": [
+            78,
+            11
+        ],
+        "CHRIS WOAKES": [
+            131,
+            10
+        ],
+        "C GREEN": [
+            63,
+            0
+        ],
+        "MITCHELL MARSH": [
+            426,
+            2
+        ],
+        "GLENN MAXWELL": [
+            398,
+            6
+        ],
+        "MARCUS STOINIS": [
+            87,
+            4
+        ],
+        "IFTIKHAR AHMED": [
+            142,
+            4
+        ],
+        "SHADAB KHAN": [
+            121,
+            2
+        ],
+        "MOHAMMAD NAWAZ": [
+            81,
+            2
+        ],
+        "MARCO JANSEN": [
+            157,
+            17
+        ],
+        "ANDIE PHEHLUKWAYO": [
+            0,
+            0
+        ],
+        "MITCHELL SANTNER": [
+            103,
+            16
+        ],
+        "JAMES NASHEEM": [
+            0,
+            0
+        ],
+        "DASUN SHANAKA": [
+            80,
+            0
+        ],
+        "DHANANJAYA SILVA": [
+            140,
+            0
+        ],
+        "M NABI": [
+            55,
+            8
+        ],
+        "RASHID KHAN": [
+            96,
+            11
+        ],
+        "SHAKIB AL HASAN": [
+            186,
+            9
+        ],
+        "MAHEDI HASAN": [
+            33,
+            6
+        ],
+        "MAHMUDULLAH": [
+            328,
+            0
+        ],
+        "MEHIDY H MIRAZ": [
+            201,
+            10
+        ],
+        "BAS DE LEEDE": [
+            139,
+            16
+        ],
+        "SHARIZ AHMAD": [
+            6,
+            0
+        ],
+        "MAX ODOWD": [
+            138,
+            0
+        ]
+            },
+    "teams": {
+        "Parmar 11": [
+            "SHUBHAM GILL",
+            "SHUBHAM GILL",
+            "VIRAT KOHLI", 
+            "DEVON CONWAY", 
+            "STEVEN SMITH",
+            "BABAR AZAM",
+            "T BOLT", 
+            "HARIS RAUF", 
+            "MITCHELL STARC", 
+            "MOHAMMED SHAMI",
+            "BEN STOKES", 
+            "MITCHELL MARSH"
+
+        ],
+        "Oswal 11": [
+            "VIRAT KOHLI",
+            "VIRAT KOHLI",
+            "SHUBHAM GILL", 
+            "JOS BUTLER", 
+            "STEVEN SMITH", 
+            "KANE WILLIAMSON",
+            "SHAHEEN AFRIDI", 
+            "MITCHELL STARC", 
+            "ADAM ZAMPA", 
+            "MOHAMMES SIRAJ",
+            "RAVINDRA JADEJA", 
+            "MARCUS STOINIS"
+        ],
+        "Veer": [
+            "VIRAT KOHLI",
+            "VIRAT KOHLI",
+            "SHUBHAM GILL",
+            "JOE ROOT", 
+            "STEVEN SMITH",
+            "BABAR AZAM",
+            "HARIS RAUF",
+            "T BOLT",
+            "MITCHELL STARC", 
+            "J BUMRAH",
+            "HARDIK PANDYA",
+            "SHAKIB AL HASAN"
+        ],
+        "Best X1": [
+            "SHUBHAM GILL",
+            "SHUBHAM GILL",
+            "VIRAT KOHLI",
+            "JOS BUTLER",
+            "STEVEN SMITH",
+            "MOHAMMAD RIZWAN",
+            "SHAHEEN AFRIDI",
+            "MITCHELL STARC",
+            "KULDEEP YADAV",
+            "J BUMRAH",
+            "HARDIK PANDYA",
+            "MITCHELL MARSH"
+        ],
+        "Yashveer": [
+            "SHUBHAM GILL",
+            "SHUBHAM GILL",
+            "HERRY BROOK",
+            "DAVID WARNER",
+            "BABAR AZAM",
+            "Q D KOCK",
+            "T BOLT",
+            "KAGISO RABADA",
+            "J HAZLEWOOD",
+            "MOHAMMED SHAMI",
+            "HARDIK PANDYA",
+            "SAM CURRAN"
+        ],
+        "Manish Periwal": [
+            "SHUBHAM GILL",
+            "SHUBHAM GILL",
+            "VIRAT KOHLI",
+            "DAWID MALAN",
+            "BABAR AZAM",
+            "KANE WILLIAMSON",
+            "SHAHEEN AFRIDI",
+            "MITCHELL STARC",
+            "KAGISO RABADA",
+            "KULDEEP YADAV",
+            "MITCHELL MARSH", 
+            "SHAKIB AL HASAN"
+        ],
+        "India": [
+            "ROHIT SHARMA",
+            "ROHIT SHARMA",
+            "SHUBHAM GILL",
+            "JOS BUTLER",
+            "DAVID WARNER",
+            "Q D KOCK",
+            "T BOLT",
+            "J HAZLEWOOD",
+            "MOHAMMED SHAMI",
+            "J BUMRAH",
+            "HARDIK PANDYA",
+            "C GREEN"
+        ],
+        "Binani": [
+            "SHUBHAM GILL",
+            "SHUBHAM GILL",
+            "VIRAT KOHLI",
+            "DAWID MALAN",
+            "DAVID WARNER",
+            "STEVEN SMITH",
+            "LUNGI NGIDI",
+            "SHAHEEN AFRIDI",
+            "MITCHELL STARC",
+            "J BUMRAH",
+            "MOEEN ALI",
+            "BEN STOKES"
+        ],
+        "Pushpa": [
+            "SHUBHAM GILL",
+            "SHUBHAM GILL",
+            "VIRAT KOHLI",
+            "DAWID MALAN",
+            "BABAR AZAM",
+            "HEINRICH KLAASEN",
+            "T BOLT",
+            "SHAHEEN AFRIDI",
+            "MITCHELL STARC",
+            "KULDEEP YADAV",
+            "HARDIK PANDYA",
+            "MITCHELL MARSH"
+        ],
+        "Raparap 11": [
+            "SHUBHAM GILL",
+            "SHUBHAM GILL",
+            "VIRAT KOHLI",
+            "JOS BUTLER",
+            "DAVID WARNER",
+            "FAKHAR ZAMAN",
+            "SHAHEEN AFRIDI",
+            "PAT CUMMINS",
+            "MOHAMMED SHAMI",
+            "KULDEEP YADAV",
+            "SAM CURRAN",
+            "MEHIDY H MIRAZ"
+        ],
+        "Dhruvisha": [
+            "VIRAT KOHLI",
+            "VIRAT KOHLI",
+            "JOE ROOT", 
+            "DAVID WARNER",
+            "BABAR AZAM",
+            "Q D KOCK",
+            "T BOLT",
+            "SHAHEEN AFRIDI",
+            "J HAZLEWOOD",
+            "MOHAMMED SHAMI",
+            "HARDIK PANDYA",
+            "RASHID KHAN"
+        ],
+        "Dhruv 11": [
+            "VIRAT KOHLI",
+            "VIRAT KOHLI",
+            "JONNY BAIRSTOW",
+            "STEVEN SMITH",
+            "BABAR AZAM",
+            "KANE WILLIAMSON",
+            "T BOLT",
+            "SHAHEEN AFRIDI",
+            "ADAM ZAMPA",
+            "KULDEEP YADAV",
+            "MITCHELL MARSH",
+            "SHAKIB AL HASAN"
+        ],
+        "Rm": [
+            "BABAR AZAM",
+            "BABAR AZAM",
+            "SHUBHAM GILL",
+            "JONNY BAIRSTOW",
+            "RVD DUSSEN",
+            "KANE WILLIAMSON",
+            "T BOLT",
+            "HARIS RAUF",
+            "MITCHELL STARC",
+            "MOHAMMED SHAMI",
+            "GLENN MAXWELL",
+            "SHAKIB AL HASAN"
+        ],
+        "VIP 11": [
+            "SHUBHAM GILL",
+            "SHUBHAM GILL",
+            "VIRAT KOHLI",
+            "JONNY BAIRSTOW",
+            "DAVID WARNER",
+            "BABAR AZAM",
+            "T BOLT",
+            "SHAHEEN AFRIDI",
+            "MITCHELL STARC",
+            "MOHAMMES SIRAJ",
+            "HARDIK PANDYA", 
+            "RASHID KHAN"
+        ],
+        "Aa Jao Boss": [
+            "STEVEN SMITH",
+            "STEVEN SMITH",
+            "SHUBHAM GILL",
+            "JOE ROOT",
+            "BABAR AZAM",
+            "DEVON CONWAY",
+            "T BOLT",
+            "SHAHEEN AFRIDI",
+            "ADAM ZAMPA",
+            "PAT CUMMINS",
+            "MITCHELL MARSH",
+            "RASHID KHAN"
+        ],
+        "Eknath Shinde": [
+            "ROHIT SHARMA",
+            "ROHIT SHARMA",
+            "JOS BUTLER",
+            "DAVID WARNER",
+            "Q D KOCK",
+            "KANE WILLIAMSON",
+            "M PATHIRANA",
+            "T BOLT",
+            "MITCHELL STARC",
+            "KULDEEP YADAV",
+            "RAVINDRA JADEJA", 
+            "MITCHELL MARSH"
+        ],
+        "Destroyer": [
+            "DAVID WARNER",
+            "DAVID WARNER",
+            "VIRAT KOHLI",
+            "DAWID MALAN",
+            "MOHAMMAD RIZWAN",
+            "HEINRICH KLAASEN",
+            "SHAHEEN AFRIDI",
+            "PAT CUMMINS",
+            "ADIL RASHID",
+            "MOHAMMED SHAMI",
+            "HARDIK PANDYA", 
+            "GLENN MAXWELL"
+        ],
+        "Ammyy 11": [
+            "SHUBHAM GILL",
+            "SHUBHAM GILL",
+            "VIRAT KOHLI",
+            "JOS BUTLER",
+            "DAVID WARNER",
+            "BABAR AZAM",
+            "T BOLT",
+            "MITCHELL STARC",
+            "PAT CUMMINS",
+            "J BUMRAH",
+            "HARDIK PANDYA",
+            "GLENN MAXWELL"
+        ],
+        "GA002": [
+            "VIRAT KOHLI",
+            "VIRAT KOHLI",
+            "LIAM LIVINGSTONE",
+            "JOE ROOT",
+            "STEVEN SMITH",
+            "BABAR AZAM",
+            "T BOLT",
+            "SHAHEEN AFRIDI",
+            "PAT CUMMINS",
+            "J BUMRAH",
+            "HARDIK PANDYA", 
+            "SHAKIB AL HASAN"
+        ],
+        "Rithvik 11": [
+            "SHUBHAM GILL",
+            "SHUBHAM GILL",
+            "ROHIT SHARMA",
+            "JOE ROOT",
+            "MOHAMMAD RIZWAN",
+            "DEVON CONWAY",
+            "LOCKIE FERGUSON",
+            "ADAM ZAMPA",
+            "MARK WOOD",
+            "KULDEEP YADAV",
+            "HARDIK PANDYA",
+            "MITCHELL MARSH"
+        ],
+        "Manvik ": [
+            "VIRAT KOHLI",
+            "VIRAT KOHLI",
+            "SHUBHAM GILL",
+            "DAVID WARNER",
+            "BABAR AZAM",
+            "Q D KOCK",
+            "T BOLT",
+            "SHAHEEN AFRIDI",
+            "PAT CUMMINS",
+            "J BUMRAH",
+            "HARDIK PANDYA",
+            "SHAKIB AL HASAN"
+        ],
+        "JSB 11": [
+            "STEVEN SMITH",
+            "STEVEN SMITH",
+            "VIRAT KOHLI",
+            "SHUBHAM GILL",
+            "DAWID MALAN",
+            "BABAR AZAM",
+            "SHAHEEN AFRIDI",
+            "MITCHELL STARC",
+            "ADIL RASHID",
+            "MOHAMMES SIRAJ",
+            "GLENN MAXWELL",
+            "SHAKIB AL HASAN"
+        ],
+        "Sumit": [
+            "SHUBHAM GILL",
+            "SHUBHAM GILL",
+            "VIRAT KOHLI", 
+            "JOE ROOT",
+            "DAVID WARNER",
+            "BABAR AZAM",
+            "KAGISO RABADA",
+            "SHAHEEN AFRIDI",
+            "MITCHELL STARC",
+            "MOHAMMES SIRAJ",
+            "BEN STOKES",
+            "SHAKIB AL HASAN"
+        ],
+        "Anubhav": [
+            "ROHIT SHARMA",
+            "ROHIT SHARMA",
+            "SHUBHAM GILL",
+            "JONNY BAIRSTOW",
+            "STEVEN SMITH",
+            "DEVON CONWAY",
+            "T BOLT",
+            "SHAHEEN AFRIDI",
+            "J HAZLEWOOD",
+            "MOHAMMES SIRAJ",
+            "RASHID KHAN",
+            "GLENN MAXWELL"
+        ],
+        "SK 11": [
+            "SHUBHAM GILL",
+            "SHUBHAM GILL",
+            "VIRAT KOHLI",
+            "JOE ROOT",
+            "STEVEN SMITH",
+            "BABAR AZAM",
+            "T BOLT",
+            "SHAHEEN AFRIDI",
+            "MARK WOOD",
+            "J BUMRAH",
+            "SHADAB KHAN", 
+            "SHAKIB AL HASAN"
+        ],
+        "Mittal X1": [
+            "VIRAT KOHLI",
+            "VIRAT KOHLI",
+            "ROHIT SHARMA",
+            "JONNY BAIRSTOW",
+            "DAVID WARNER",
+            "MOHAMMAD RIZWAN",
+            "T BOLT",
+            "HARIS RAUF",
+            "J HAZLEWOOD",
+            "MARK WOOD",
+            "HARDIK PANDYA",
+            "MITCHELL MARSH"
+        ],
+        "Arham 009": [
+            "VIRAT KOHLI",
+            "VIRAT KOHLI",
+            "JOE ROOT",
+            "DAVID WARNER",
+            "BABAR AZAM",
+            "DEVON CONWAY",
+            "T BOLT",
+            "MITCHELL STARC",
+            "ADAM ZAMPA",
+            "MOHAMMED SHAMI",
+            "MITCHELL MARSH",
+            "SHAKIB AL HASAN"
+        ],
+        "Nilesh K.T.": [
+            "VIRAT KOHLI",
+            "VIRAT KOHLI",
+            "SHUBHAM GILL",
+            "DAWID MALAN",
+            "BABAR AZAM",
+            "DEVON CONWAY",
+            "SHAHEEN AFRIDI",
+            "MITCHELL STARC",
+            "MARK WOOD",
+            "MOHAMMED SHAMI",
+            "MITCHELL MARSH",
+            "SHAKIB AL HASAN"
+        ],
+        "Bond Tite X1 (nk)": [
+            "SHUBHAM GILL",
+            "SHUBHAM GILL",
+            "ROHIT SHARMA",
+            "VIRAT KOHLI",
+            "BABAR AZAM",
+            "KANE WILLIAMSON",
+            "MITCHELL STARC",
+            "ADAM ZAMPA",
+            "KULDEEP YADAV",
+            "J BUMRAH",
+            "GLENN MAXWELL",
+            "SHAKIB AL HASAN"
+        ],
+        "Hrim": [
+            "ROHIT SHARMA",
+            "ROHIT SHARMA",
+            "VIRAT KOHLI",
+            "JOE ROOT",
+            "JONNY BAIRSTOW",
+            "STEVEN SMITH",
+            "T BOLT",
+            "MITCHELL STARC",
+            "ADAM ZAMPA",
+            "J BUMRAH",
+            "RAVINDRA JADEJA",
+            "SHAKIB AL HASAN"
+        ],
+        "N/G 333": [
+            "ROHIT SHARMA",
+            "ROHIT SHARMA",
+            "VIRAT KOHLI",
+            "JOS BUTLER",
+            "DAVID WARNER",
+            "MOHAMMAD RIZWAN",
+            "MITCHELL STARC",
+            "MARK WOOD",
+            "MOHAMMES SIRAJ",
+            "KULDEEP YADAV",
+            "RAVINDRA JADEJA", 
+            "MITCHELL MARSH"
+        ],
+        "Arham": [
+            "SHUBHAM GILL",
+            "SHUBHAM GILL",
+            "VIRAT KOHLI",
+            "JOS BUTLER",
+            "DAVID WARNER",
+            "DEVON CONWAY",
+            "M THEEKSHANA",
+            "T BOLT",
+            "MITCHELL STARC",
+            "MOHAMMES SIRAJ",
+            "GLENN MAXWELL",
+            "SHAKIB AL HASAN"
+        ],
+        "Karnav XL": [
+            "VIRAT KOHLI",
+            "VIRAT KOHLI",
+            "SHUBHAM GILL",
+            "JOE ROOT",
+            "BABAR AZAM",
+            "DEVON CONWAY",
+            "T BOLT",
+            "SHAHEEN AFRIDI",
+            "MARK WOOD",
+            "KULDEEP YADAV",
+            "HARDIK PANDYA",
+            "MITCHELL MARSH"
+        ],
+        "Enrique": [
+            "KL RAHUL",
+            "KL RAHUL",
+            "VIRAT KOHLI",
+            "JONNY BAIRSTOW",
+            "IMAM UL HAQ",
+            "DEVON CONWAY",
+            "LUNGI NGIDI",
+            "MITCHELL STARC",
+            "MOHAMMES SIRAJ",
+            "J BUMRAH",
+            "HARDIK PANDYA",
+            "GLENN MAXWELL"
+        ],
+        "Tini mini": [
+            "ROHIT SHARMA",
+            "ROHIT SHARMA",
+            "JOS BUTLER",
+            "DAVID WARNER",
+            "BABAR AZAM",
+            "KUSAL MENDIS",
+            "M THEEKSHANA",
+            "KAGISO RABADA",
+            "PAT CUMMINS",
+            "KULDEEP YADAV",
+            "RASHID KHAN",
+            "SHAKIB AL HASAN"
+        ],
+        "भारत 11": [
+            "SHUBHAM GILL",
+            "SHUBHAM GILL",
+            "VIRAT KOHLI",
+            "DAVID WARNER",
+            "BABAR AZAM",
+            "DEVON CONWAY",
+            "SHAHEEN AFRIDI",
+            "ADAM ZAMPA",
+            "KULDEEP YADAV",
+            "J BUMRAH",
+            "HARDIK PANDYA",
+            "GLENN MAXWELL"
+        ],
+        "Bond Tite  Xl (ss) ": [
+            "SHUBHAM GILL",
+            "SHUBHAM GILL",
+            "DAWID MALAN",
+            "DAVID WARNER",
+            "STEVEN SMITH",
+            "MOHAMMAD RIZWAN",
+            "ISH SIDHI",
+            "ADAM ZAMPA",
+            "MOHAMMES SIRAJ",
+            "KULDEEP YADAV",
+            "GLENN MAXWELL",
+            "SHAKIB AL HASAN"
+        ],
+        "Apna Time Aayega ": [
+            "VIRAT KOHLI",
+            "VIRAT KOHLI",
+            "JOS BUTLER",
+            "STEVEN SMITH",
+            "Q D KOCK",
+            "DEVON CONWAY",
+            "T BOLT",
+            "PAT CUMMINS",
+            "MARK WOOD",
+            "KULDEEP YADAV",
+            "HARDIK PANDYA",
+            "RASHID KHAN"
+        ],
+        "V Rathod": [
+            "VIRAT KOHLI",
+            "VIRAT KOHLI",
+            "SHUBHAM GILL",
+            "JOE ROOT",
+            "DAVID WARNER",
+            "BABAR AZAM",
+            "T BOLT",
+            "MITCHELL STARC",
+            "MARK WOOD",
+            "MOHAMMES SIRAJ",
+            "HARDIK PANDYA",
+            "SHAKIB AL HASAN"
+        ],
+        "Ls": [
+            "ROHIT SHARMA",
+            "ROHIT SHARMA",
+            "VIRAT KOHLI",
+            "DAVID WARNER",
+            "STEVEN SMITH",
+            "BABAR AZAM",
+            "SHAHEEN AFRIDI",
+            "MITCHELL STARC",
+            "KULDEEP YADAV",
+            "J BUMRAH",
+            "MITCHELL MARSH",
+            "SHAKIB AL HASAN"
+        ],
+        "Mahadev X1": [
+            "VIRAT KOHLI",
+            "VIRAT KOHLI",
+            "SHUBHAM GILL",
+            "DAVID WARNER",
+            "BABAR AZAM",
+            "DEVON CONWAY",
+            "M RAHMAN",
+            "T BOLT",
+            "SHAHEEN AFRIDI",
+            "MOHAMMES SIRAJ",
+            "M NABI",
+            "SHAKIB AL HASAN"
+        ],
+        "Dhruv": [
+            "SHUBHAM GILL",
+            "SHUBHAM GILL",
+            "VIRAT KOHLI",
+            "DAWID MALAN",
+            "DAVID WARNER",
+            "BABAR AZAM",
+            "KAGISO RABADA",
+            "SHAHEEN AFRIDI",
+            "MITCHELL STARC",
+            "J BUMRAH",
+            "HARDIK PANDYA",
+            "GLENN MAXWELL"
+        ],
+        "A Rathod": [
+            "ROHIT SHARMA",
+            "ROHIT SHARMA",
+            "JONNY BAIRSTOW",
+            "STEVEN SMITH",
+            "BABAR AZAM",
+            "DEVON CONWAY",
+            "T BOLT",
+            "HARIS RAUF",
+            "MITCHELL STARC",
+            "MARK WOOD",
+            "BEN STOKES",
+            "SHAKIB AL HASAN"
+        ],
+        "Shubham 11": [
+            "SHUBHAM GILL",
+            "SHUBHAM GILL",
+            "VIRAT KOHLI",
+            "SURYAKUMAR YADAV",
+            "DAWID MALAN",
+            "DAVID WARNER",
+            "SHAHEEN AFRIDI",
+            "PAT CUMMINS",
+            "KULDEEP YADAV",
+            "J BUMRAH",
+            "BEN STOKES",
+            "MITCHELL MARSH"
+        ],
+        "Jacky 11": [
+            "DAVID WARNER",
+            "DAVID WARNER",
+            "ROHIT SHARMA",
+            "VIRAT KOHLI",
+            "JOE ROOT",
+            "MOHAMMAD RIZWAN",
+            "HARIS RAUF",
+            "PAT CUMMINS",
+            "MARK WOOD",
+            "J BUMRAH",
+            "HARDIK PANDYA",
+            "MITCHELL MARSH"
+        ],
+        "Dholu Molu": [
+            "VIRAT KOHLI",
+            "VIRAT KOHLI",
+            "JOS BUTLER",
+            "DAVID WARNER",
+            "BABAR AZAM",
+            "DEVON CONWAY",
+            "T BOLT",
+            "MITCHELL STARC",
+            "MARK WOOD",
+            "KULDEEP YADAV",
+            "SHADAB KHAN",
+            "SHAKIB AL HASAN"
+        ],
+        "Paresh K.T.": [
+            "SHUBHAM GILL",
+            "SHUBHAM GILL",
+            "VIRAT KOHLI",
+            "DAVID WARNER",
+            "BABAR AZAM",
+            "DEVON CONWAY",
+            "T BOLT",
+            "SHAHEEN AFRIDI",
+            "ADAM ZAMPA",
+            "KULDEEP YADAV",
+            "MITCHELL MARSH",
+            "SHAKIB AL HASAN"
+        ],
+        "NDA": [
+            "JOE ROOT",
+            "JOE ROOT",
+            "SHUBHAM GILL",
+            "DAVID WARNER",
+            "HEINRICH KLAASEN",
+            "DEVON CONWAY",
+            "M THEEKSHANA",
+            "ADAM ZAMPA",
+            "ADIL RASHID",
+            "KULDEEP YADAV",
+            "GLENN MAXWELL",
+            "SHAKIB AL HASAN"
+        ],
+        "J007": [
+            "SHUBHAM GILL",
+            "SHUBHAM GILL",
+            "VIRAT KOHLI",
+            "JONNY BAIRSTOW",
+            "DAVID WARNER",
+            "KANE WILLIAMSON",
+            "MITCHELL STARC",
+            "ADIL RASHID",
+            "MOHAMMES SIRAJ",
+            "J BUMRAH",
+            "HARDIK PANDYA",
+            "GLENN MAXWELL"
+        ],
+        "Buldozer Baba": [
+            "SHUBHAM GILL",
+            "SHUBHAM GILL",
+            "JONNY BAIRSTOW",
+            "STEVEN SMITH",
+            "Q D KOCK",
+            "KUSAL PARERA",
+            "NAVEEN UL HAQ",
+            "MITCHELL STARC",
+            "ADIL RASHID",
+            "J BUMRAH",
+            "GLENN MAXWELL",
+            "SHAKIB AL HASAN"
+        ],
+        "Sanju 11": [
+            "VIRAT KOHLI",
+            "VIRAT KOHLI",
+            "SHUBHAM GILL",
+            "DAVID WARNER",
+            "STEVEN SMITH",
+            "BABAR AZAM",
+            "T BOLT",
+            "SHAHEEN AFRIDI",
+            "MITCHELL STARC",
+            "J BUMRAH",
+            "GLENN MAXWELL",
+            "SHADAB KHAN"
+        ]
+        
+        
+    },
+    "forms": {
+       
+"Parmar 11": 1,
+"Oswal 11": 2,
+"Veer": 3,
+"Best X1": 4,
+"Yashveer": 5,
+"Manish Periwal": 6,
+"India": 7,
+"Binani": 8,
+"Pushpa": 9,
+"Raparap 11": 10,
+"Dhruvisha":11,
+"Dhruv 11": 12,
+"Rm": 13,
+"VIP 11": 14,
+"Aa Jao Boss": 15,
+"Eknath Shinde": 16,
+"Destroyer": 17,
+"Ammyy 11": 18,
+"GA002": 19,
+"Rithvik 11": 20,
+"Manvik ": 21,
+"JSB 11": 22,
+"Sumit": 23,
+"Anubhav": 24,
+"SK 11": 25,
+"Mittal X1": 26,
+"Arham 009": 27,
+"Nilesh K.T.": 28,
+"Bond Tite X1 (nk)": 29,
+"Hrim": 30,
+"N/G 333": 31,
+"Arham": 32,
+"Karnav XL": 33,
+"Enrique": 34,
+"Tini mini": 35,
+"भारत 11": 36,
+"Bond Tite  Xl (ss) ": 37,
+"Apna Time Aayega ": 38,
+"V Rathod": 39,
+"Ls": 40,
+"Mahadev X1": 41,
+"Dhruv": 42,
+"A Rathod": 43,
+"Shubham 11": 44,
+"Jacky 11": 45,
+"Dholu Molu": 46,
+"Paresh K.T.": 47,
+"NDA": 48,
+"J007": 49,
+"Buldozer Baba": 50,
+"Sanju 11": 51
+      }
+}
